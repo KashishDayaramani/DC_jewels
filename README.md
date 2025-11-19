@@ -21,7 +21,7 @@
 - Configure your environment variables in each `.env` file
 
 ### 3. Install Dependencies
-Open each project folder in your IDE's terminal and run:
+Open each project folder i
 ```bash
 npm install
 ```
